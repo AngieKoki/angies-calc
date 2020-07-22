@@ -1,0 +1,9 @@
+.answer{
+    background-color: blueviolet;
+    border-radius: 4rem;
+    border: blue,2px;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 2rem;
+}
